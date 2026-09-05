@@ -31,7 +31,7 @@ namespace minority
                 
                 if (divCount == 2)
                 {
-                    Console.Write("{0} ", i);
+                    Console.Write("{i} ");
                     
                     minorCount++;
                 }
